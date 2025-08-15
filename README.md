@@ -6,7 +6,8 @@ Projeto para o Instituto Alpargatas voltado à redução da evasão escolar. Usa
 
 # Dependências 
 * pandas
-* numpy
+* utils
+* os
 ```bash
 pip install -r requirements.txt
 ```
