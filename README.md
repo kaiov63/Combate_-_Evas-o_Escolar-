@@ -8,7 +8,10 @@ Projeto para o Instituto Alpargatas voltado à redução da evasão escolar. Usa
 * pandas
 * utils
 * os
+
+No terminal instale todas as dependências do projeto 
 ```bash
+# PIP
 pip install -r requirements.txt
 ```
 # Equipe de Desenvolvimento
